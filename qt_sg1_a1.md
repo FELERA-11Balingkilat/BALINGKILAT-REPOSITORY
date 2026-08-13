@@ -46,6 +46,7 @@ For each sub-problem, apply CT skills:
 
 START:
 	Makes an empty list
+	
 	Asks the user if they will make the menu or will be the one pre-ordering
 
 	If answer is former:
